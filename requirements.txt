@@ -1,0 +1,13 @@
+html2docx
+markdown
+typing_extensions==4.12.2
+Unidecode==1.3.8
+urllib3==2.2.2
+tqdm
+lxml
+typer
+rich
+pyyaml
+python-docx
+beautifulsoup4
+ruff
