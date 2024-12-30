@@ -5,16 +5,13 @@ pkgs.mkShell {
   ];
 
   buildInputs = with pkgs; [
-    jq
     nodejs
-    hugo
     just
     mystmd
+    act
   ];
 
   shellHook = ''
-    export PATH="$PWD/node_modules/.bin/:$PATH"
-    alias scripts='jq ".scripts" package.json'
-    export PUPPETEER_EXECUTABLE_PATH="${pkgs.chromium.outPath}/bin/chromium"
+  echo "done!"
   '';
 }
