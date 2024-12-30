@@ -1,5 +1,4 @@
 
-# Project Planning
 
 
 ## Work Activities

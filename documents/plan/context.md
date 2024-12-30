@@ -1,5 +1,4 @@
 
-# Project Context
 
 
 ## Infrastructure, tools and methods

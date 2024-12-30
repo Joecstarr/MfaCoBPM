@@ -1,7 +1,7 @@
 set export
 
 # Set up development environment
-project:
+plan:
     myst build ./documents/project_plan/project_plan.md --docx
 
 risk:
