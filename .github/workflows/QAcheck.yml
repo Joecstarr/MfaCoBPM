@@ -7,8 +7,9 @@ on:
     pull_request:
         branches: ["main"]
 
+
 jobs:
-    release:
+    QA-Check:
         runs-on: ubuntu-22.04
         steps:
             - uses: actions/checkout@v4
@@ -16,12 +17,17 @@ jobs:
                   submodules: recursive
                   fetch-depth: 0
 
+            - name: Check Nixpkgs inputs
+              uses: DeterminateSystems/flake-checker-action@main
+              with:
+                  fail-mode: true
+
             - name: Install Nix
               uses: DeterminateSystems/nix-installer-action@main
 
             - uses: DeterminateSystems/magic-nix-cache-action@main
 
-            - name: Check Nixpkgs inputs
-              uses: DeterminateSystems/flake-checker-action@main
-              with:
-                  fail-mode: true
+            - name: Build dist
+              run: |
+                  nix develop --command \
+                    just all

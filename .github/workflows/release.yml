@@ -16,15 +16,16 @@ jobs:
                   submodules: recursive
                   fetch-depth: 0
 
+            - name: Check Nixpkgs inputs
+              uses: DeterminateSystems/flake-checker-action@main
+              with:
+                  fail-mode: true
+
             - name: Install Nix
               uses: DeterminateSystems/nix-installer-action@main
 
             - uses: DeterminateSystems/magic-nix-cache-action@main
 
-            - name: Check Nixpkgs inputs
-              uses: DeterminateSystems/flake-checker-action@main
-              with:
-                  fail-mode: true
 
             - name: Build dist
               run: |
