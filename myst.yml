@@ -1,15 +1,24 @@
-# See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: 28ae89ab-cba9-440d-a062-08075e0d441b
-  license: CC-BY-4.0
-  open_access: true
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
   github: https://github.com/Joecstarr/4041_capstone_materials
+  open_access: true
+  license: CC-BY-4.0
   numbering:
-      headings: true
+    heading_1:
+      enabled: true
+    heading_2:
+      enabled: true
+    heading_3:
+      enabled: true
+    heading_4:
+      enabled: true
+    heading_5:
+      enabled: true
+    heading_6:
+      enabled: true
+  id: 28ae89ab-cba9-440d-a062-08075e0d441b
+  toc:
+    - pattern: 'documents/**/*.md'
 
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme

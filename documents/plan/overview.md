@@ -28,7 +28,8 @@ appliances may be "out of scope"._
 
 _This subsection should describe what the "completed" product this project is
 building looks like. If you have a customer what do you hand to them at the
-end? This could, and likely does, include "beta"/draft versions of the deliverables at project milestones._
+end? This could, and likely does, include "beta"/draft versions of the
+deliverables at project milestones._
 
 ## Project Constraints
 
@@ -38,23 +39,33 @@ will inform the ```risk_management_plan``` as well as the ```schedule```._
 (personnel)=
 ### Personnel
 
-_This subsection describes the human resources for the project._
+_This subsection describes the human resources for the project. It should
+contain a list of all people who will work on the project and what their roles
+are._
 
-#### Name
-_This subsubsection can be duplicated for each project resource._
-##### Role
-_This subsubsubsection should describe what this resource's role on the project
-entails. What are the skills they will use? What are the tasks they will complete?_
-##### Restrictions
-_This subsubsubsection should describe what the person can't be scheduled for._
+```{include} personnel/person.md
+```
 
 (timing)=
 ### Timing
-_This subsection describes the timing constraints for the project. What is the due date? Are there 'beta' releases described in deliverables. The combination of this section and [SubSec. %s](#personnel) give the basis for determining the schedule._
+_This subsection describes the timing constraints for the project. What is the
+due date? Are there 'beta' releases described in deliverables. The combination
+of this section and [SubSec. %s](#personnel) give the basis for determining the
+schedule._
 
 ### Technological
-_This subsection describes the technological constraints for the project. Perhaps we're building a wood puzzle and don't have access to a laser cutter._
+_This subsection describes the technological constraints for the project.
+Perhaps we're building a wood puzzle and don't have access to a laser cutter._
 
 ### Budget
 _This subsection describes the monetary constraints for the project. How much do
 we have to spend? Do the funds come in phases or as a lump sum?_
+
+
+## Infrastructure, tools, and methods
+
+_This section of the project plan describes what "things" are needed to complete
+the project. Do you need a specific tool to plan the project (infrastructure)?
+Do you need a tool or procedure while constructing the project? As an example,
+if the project is to build a wooden chest, you may need a table saw to complete
+the project._
