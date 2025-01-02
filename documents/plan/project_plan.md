@@ -1,25 +1,29 @@
 ---
 title: Project Plan
+authors:
+  - name: Joe Starr
 exports:
-  - format: pdf
-    template: plain_latex
-    logo: false
-  - format: docx
-    template: curvenote
-    hideFooter: true
+    - format: pdf
+      template: plain_latex
+      logo: false
+    - format: docx
+      template: curvenote
+      hideFooter: true
+    - format: md
 ---
 # Project Overview
 
-```{include} overview.md
+```{include} sections/overview.md
 ```
 
 # Project Assessment and Control
 
-```{include} change_control.md
+```{include} sections/change_control.md
 ```
+
 # Project Requirements
 
-```{include} requirements.md
+```{include} sections/requirements.md
 ```
 
 # Project Risk

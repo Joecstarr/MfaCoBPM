@@ -1,5 +1,7 @@
 ---
 title: Project Schedule
+authors:
+  - name: Joe Starr
 exports:
   - format: pdf
     template: plain_latex
@@ -7,6 +9,7 @@ exports:
   - format: docx
     template: curvenote
     hideFooter: true
+  - format: md
 ---
 
 # Task Scope Description

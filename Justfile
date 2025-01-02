@@ -3,15 +3,15 @@
 
 # Build project plan
 plan:
-    myst build ./documents/plan/project_plan.md --docx --pdf
+    myst build ./documents/plan/project_plan.md
 
 # Build risk management plan
 risk:
-    myst build ./documents/risk/risk_management_plan.md --docx --pdf
+    myst build ./documents/risk/risk_management_plan.md
 
 # Build scheduling doc
 schedule:
-    myst build ./documents/schedule/schedule.md --docx --pdf
+    myst build ./documents/schedule/schedule.md
 
 # Rename files: .doc -> .docx
 rename:
