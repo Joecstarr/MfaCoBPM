@@ -3,7 +3,7 @@ title: Project Plan
 exports:
   - format: pdf
     template: plain_latex
-    hideFooter: true
+    logo: false
   - format: docx
     template: curvenote
     hideFooter: true
@@ -16,6 +16,10 @@ exports:
 # Project Assessment and Control
 
 ```{include} change_control.md
+```
+# Project Requirements
+
+```{include} requirements.md
 ```
 
 # Project Risk

@@ -172,3 +172,4 @@ cython_debug/
 exports
 # MyST build outputs
 _build
+.vscode

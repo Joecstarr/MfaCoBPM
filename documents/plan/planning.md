@@ -1,8 +1,0 @@
-
-
-
-## Work Activities
-
-
-## Time Allocation
-

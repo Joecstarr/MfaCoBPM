@@ -31,6 +31,14 @@ building looks like. If you have a customer what do you hand to them at the
 end? This could, and likely does, include "beta"/draft versions of the
 deliverables at project milestones._
 
+### Infrastructure, tools, and methods
+
+_This subsection of the project plan describes what "things" are needed to complete
+the project. Do you need a specific tool to plan the project (infrastructure)?
+Do you need a tool or procedure while constructing the project? As an example,
+if the project is to build a wooden chest, you may need a table saw to complete
+the project._
+
 ## Project Constraints
 
 _This section describes limitations imposed on the project. These constraints
@@ -43,7 +51,7 @@ _This subsection describes the human resources for the project. It should
 contain a list of all people who will work on the project and what their roles
 are._
 
-```{include} personnel/person.md
+```{include} personnel_cards/person.md
 ```
 
 (timing)=
@@ -55,17 +63,11 @@ schedule._
 
 ### Technological
 _This subsection describes the technological constraints for the project.
-Perhaps we're building a wood puzzle and don't have access to a laser cutter._
+Perhaps we're building a wood puzzle and don't have access to a laser cutter.
+This might require us to reduce the scope/requirements of the project to a paper
+model._
 
 ### Budget
 _This subsection describes the monetary constraints for the project. How much do
 we have to spend? Do the funds come in phases or as a lump sum?_
 
-
-## Infrastructure, tools, and methods
-
-_This section of the project plan describes what "things" are needed to complete
-the project. Do you need a specific tool to plan the project (infrastructure)?
-Do you need a tool or procedure while constructing the project? As an example,
-if the project is to build a wooden chest, you may need a table saw to complete
-the project._
