@@ -10,9 +10,6 @@ What information must be included in all requirements? _
 
 ## Requirements List
 
-_This section contains a list of all requirements for the project. They should
-follow the style given in [Sec. %s](#RSD)._
 
-
-```{include} requirement_cards/requirement.md
+```{include} ./requirements_table.md
 ```

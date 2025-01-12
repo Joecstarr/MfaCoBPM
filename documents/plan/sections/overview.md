@@ -52,11 +52,7 @@ will inform the ```risk_management_plan``` as well as the ```schedule```._
 (personnel)=
 ### Personnel
 
-_This subsection describes the human resources for the project. It should
-contain a list of all people who will work on the project and what their roles
-are._
-
-```{include} personnel_cards/person.md
+```{include} ./personnel_table.md
 ```
 
 (timing)=
