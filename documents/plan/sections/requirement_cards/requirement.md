@@ -6,7 +6,7 @@ of this template should be made for each project requirement._
 
 #### Requirement Description
 _This subsubsection should describe the content of the requirement. This
-subsubsection should have project specific fields defined by [Sec. %s](#RSD)._
+subsubsection should have project specific fields defined by [Sec. %s](#RSD). Requirements and their descriptions should be written in strong declarative language, for example consider using "shall" over "should"._
 
 #### Requirement Deviations
 _This subsubsection should describe what if any deviations are being made to

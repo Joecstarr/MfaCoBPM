@@ -31,6 +31,11 @@ building looks like. If you have a customer what do you hand to them at the
 end? This could, and likely does, include "beta"/draft versions of the
 deliverables at project milestones._
 
+#### Milestones 
+
+_This subsubsection documents the project milestones and their deliverables, quality goals, and agreed on delivery dates. Having specific milestones for the project allows project members to see and feel the project progress. Further milestones serve as a risk assessment tool._
+
+
 ### Infrastructure, tools, and methods
 
 _This subsection of the project plan describes what "things" are needed to complete
