@@ -1,6 +1,12 @@
 @_default:
     just --list
 
+
+# Set up development environment
+bootstrap:
+    uv venv
+    uv pip install -r requirements.txt
+
 # Build project plan
 plan:
     myst build ./documents/plan/project_plan.md

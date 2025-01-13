@@ -30,6 +30,9 @@ project:
               - pattern: "documents/schedule/sections/**/*.md"
     bibliography:
       - "refs.bib"
+    plugins:
+      - type: executable
+        path: plugins/mermaid/default.py
 
 site:
     template: article-theme
