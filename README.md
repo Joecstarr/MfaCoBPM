@@ -1,4 +1,4 @@
-# What is this?
+# Repository contents
 
 The contents of this repository describe the skeleton of a project. The
 skeleton consists of three documents:
@@ -7,7 +7,17 @@ skeleton consists of three documents:
 2. Risk Management Plan
 3. Project Schedule
 
-## Project plan
+## Course Template Documents
+### Project plan
 
-The project plan ```./documents/plan/project_plan.md``` describes the project
-overview: scope, control processes, etc.
+The project plan ```./documents/plan/project_plan.md``` is the primary planning document for the project. 
+
+### Risk Management Plan 
+
+### Project Schedule
+
+## Course Design Documents
+
+### Course Design
+
+### Weekly Lesson Plan  
