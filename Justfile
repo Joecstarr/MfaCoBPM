@@ -19,6 +19,10 @@ risk:
 schedule:
     myst build ./documents/schedule/schedule.md
 
+# Build course design docs
+design:
+    myst build ./course_planning/course_design.md
+
 # Rename files: .doc -> .docx
 rename:
     find ./_build/exports/ -iname "*.doc" -exec sh -c 'mv "${1}" "${1%.*}.docx" ' sh {} \;
@@ -36,4 +40,5 @@ all:
     just plan
     just risk
     just schedule
+    just design
     just rename

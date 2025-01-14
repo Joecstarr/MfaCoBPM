@@ -28,6 +28,9 @@ project:
         - file: "documents/schedule/schedule.md"
           children:
               - pattern: "documents/schedule/sections/**/*.md"
+        - file: "course_planning/course_design.md"
+          children:
+              - pattern: "course_planning/weekly_plans/**/*.md"
     bibliography:
       - "refs.bib"
     plugins:
