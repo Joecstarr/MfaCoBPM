@@ -34,16 +34,17 @@ _This subsection contains the list of all task cards for the project._
 
 _This subsection documents the critical path for tasks in the project. The prioritization of tasks is a common pain point for projects. Common prioritization strategies are:_
 
--   _Do the hard things first._
--   _Do the easy things first._
--   _Do the fun things first._
-    _each of these prioritization strategies comes with it's own issues.
-    The common thread that causes pain is that none of these strategies
-    "see" the global project scope. One tool that allows you to
-    visualize the global project scope is a task network. Consider a
-    given task $A$, in order to complete $A$ tasks $B$ and $D$ need to
-    be completed. Further, for task $D$ task $E$ needs to be completed.
-    We can draw a network of these tasks:_
+*   _Do the hard things first._
+*   _Do the easy things first._
+*   _Do the fun things first._
+
+_each of these prioritization strategies comes with it's own issues.
+The common thread that causes pain is that none of these strategies
+"see" the global project scope. One tool that allows you to
+visualize the global project scope is a task network. Consider a
+given task $A$, in order to complete $A$ tasks $B$ and $D$ need to
+be completed. Further, for task $D$ task $E$ needs to be completed.
+We can draw a network of these tasks:_
 
 ```{mermaid-py}
 flowchart LR
