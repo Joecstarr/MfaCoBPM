@@ -4,13 +4,17 @@ authors:
     - name: Joe Starr
 exports:
     - format: pdf
-      template: plain_latex
+      template: curvenote
       logo: false
     - format: docx
       template: curvenote
       hideFooter: true
     - format: md
 ---
+
+This document contains the course design for the ISA:4041 "Senior Capstone"
+course at The University of Iowa. The design utilizes the "Backward Design" of
+@wigginsUnderstandingDesign2008. Many of the ideas come from @pressmanSoftwareEngineeringPractitioners2015 but have been massaged to be less software focused.
 
 # Overall Course Design
 
@@ -29,7 +33,6 @@ The overarching theme for the course is:
 
 > Be kind to future you.
 
-
 ### Transfer
 
 _Students will be able to independently use their learning to…_
@@ -45,51 +48,46 @@ life cycle.
 
 _Students will understand that…_
 
-* Products have long lives but projects die fast.
-* Future you is a person that you need to collaborate with.
-* Project documentation makes life easier
-* Risk management from the "Indiana Jones School of Risk Management" is bad. 
-* Projects fall behind "One day at a time" - Fred Brooks 
-
-[Tho92] Thomsett, R., “The Indiana Jones School of Risk Management,” American Programmer, vol. 5, no. 7, September 1992, pp. 10–18. 
-
+-   Products have long lives but projects die fast.
+-   Future you is a person that you need to collaborate with.
+-   Project documentation makes life easier
+-   Why risk management from the "Indiana Jones School of Risk Management" [@thomsettIndianaJonesSchool1992] is bad.
+-   Projects fall behind "One day at a time" - Fred Brooks
 
 #### Essential Questions
 
-* How do you ideate for a project? 
-* How do you design a project plan?
-* How do you evaluate risk?
-* How do you do you create a project schedule?
+-   How do you ideate for a project?
+-   How do you design a project plan?
+-   How do you evaluate risk?
+-   How do you do you create a project schedule?
 
 ### Acquisition
 
 #### Students will know…
 
-* How to use Crazy8s for ideation.
-* How a basic project plan is used.
-* How a risk management plan is used.
-* How a project is scheduled.
-
+-   How to use Crazy8s for ideation.
+-   How a basic project plan is used.
+-   How a risk management plan is used.
+-   How a project is scheduled.
 
 #### Students will be skilled at…
 
-Students will be able to utilize project management tools in practice. 
+Students will be able to utilize project management tools in practice.
 
 ## Stage 2 - Evidence and Assessment
 
 ### Evaluative Criteria
 
-* Students have a well formed project plan.
-* Students have a well formed risk management plan.
-* Students have a well formed project schedule.
-* Students complete a project.
+-   Students have a well formed project plan.
+-   Students have a well formed risk management plan.
+-   Students have a well formed project schedule.
+-   Students complete a project.
 
 ### Assessment Evidence
 
-
 #### Performance Task(s):
 
-Students will complete a collection of project management documents for their project. The course will culminate with a 1:1 retrospective meeting where the student will present their completed material and reflect on successes and failures in their planning. 
+Students will complete a collection of project management documents for their project. The course will culminate with a 1:1 retrospective meeting where the student will present their completed material and reflect on successes and failures in their planning.
 
 #### Other Evidence:
 
@@ -101,32 +99,36 @@ The course will contain five to six weeks of instruction followed by 9-10 weeks 
 
 1. Week 1
     1. Syllabus
-    2. Project ideation 
-2. Week 2 
+    2. Project ideation
+2. Week 2
     1. A project plan
     2. Overview part
     3. Assessment and control
 3. Week 4
     1. Requirements design
 4. Week 5
-    1. Risk Management 
-5. Week 6 
-    1. Project Schedule 
-6. Week 7-15 
+    1. Risk Management
+5. Week 6
+    1. Project Schedule
+6. Week 7-15
 7. Final Exam Retrospective meeting
 
- ```{include} weekly_plans/1.md
+```{include} weekly_plans/1.md
 
 ```
+
 ```{include} weekly_plans/2.md
 
 ```
+
 ```{include} weekly_plans/3.md
 
 ```
+
 ```{include} weekly_plans/4.md
 
 ```
+
 ```{include} weekly_plans/5.md
 
 ```

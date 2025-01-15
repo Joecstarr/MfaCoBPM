@@ -1,7 +1,6 @@
 @_default:
     just --list
 
-
 # Set up development environment
 bootstrap:
     uv venv
@@ -32,6 +31,11 @@ toc:
 
 clean:
     myst clean --all -y
+
+# This will only work for how I (@joecstarr) have zotero set up.
+bib:
+    zotero &
+    curl http://127.0.0.1:23119/better-bibtex/export/collection\?/6/268CXLKT.biblatex > ./refs.bib
 
 # Build all the things.
 all:

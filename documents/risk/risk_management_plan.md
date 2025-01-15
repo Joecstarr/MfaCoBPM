@@ -4,7 +4,7 @@ authors:
     - name: Joe Starr
 exports:
     - format: pdf
-      template: plain_latex
+      template: curvenote
       logo: false
     - format: docx
       template: curvenote
