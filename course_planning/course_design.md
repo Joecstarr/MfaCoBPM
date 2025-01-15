@@ -45,60 +45,77 @@ life cycle.
 
 _Students will understand that…_
 
-```{note}
-Refers to the big ideas and specific understandings students will have when the complete the lesson, unit, or course.
-```
+* Products have long lives but projects die fast.
+* Future you is a person that you need to collaborate with.
+* Project documentation makes life easier
+* Risk management from the "Indiana Jones School of Risk Management" is bad. 
+* Projects fall behind "One day at a time" - Fred Brooks 
+
+[Tho92] Thomsett, R., “The Indiana Jones School of Risk Management,” American Programmer, vol. 5, no. 7, September 1992, pp. 10–18. 
+
 
 #### Essential Questions
 
-```{note}
-Refers to the provocative questions that foster inquiry, understanding, and transfer of learning. These questions typically frame the lesson, unit, or course and are often revisited. If students attain the established goals, they should be able to answer the essential question(s).
-```
+* How do you ideate for a project? 
+* How do you design a project plan?
+* How do you evaluate risk?
+* How do you do you create a project schedule?
 
 ### Acquisition
 
 #### Students will know…
 
-```{note}
-Refers to the key knowledge students will acquire from the lesson, unit, or course.
-```
+* How to use Crazy8s for ideation.
+* How a basic project plan is used.
+* How a risk management plan is used.
+* How a project is scheduled.
+
 
 #### Students will be skilled at…
 
-```{note}
-Refers to the key skills students will acquire from the lesson, unit, or course.
-```
+Students will be able to utilize project management tools in practice. 
 
 ## Stage 2 - Evidence and Assessment
 
 ### Evaluative Criteria
-```{note}
-Refers to the various types of criteria that students will be evaluated on.
-```
+
+* Students have a well formed project plan.
+* Students have a well formed risk management plan.
+* Students have a well formed project schedule.
+* Students complete a project.
 
 ### Assessment Evidence
 
 
 #### Performance Task(s):
 
-```{note}
-Refers to the authentic performance task(s) that students will complete to demonstrate the desired understandings or demonstrate they have attained the goals. The performance task(s) are typically larger assessments that coalesce various concepts and understandings like large projects or papers.
-```
+Students will complete a collection of project management documents for their project. The course will culminate with a 1:1 retrospective meeting where the student will present their completed material and reflect on successes and failures in their planning. 
 
 #### Other Evidence:
 
-```{note}
-Refers to other types of evidence that will show if students have demonstrated achievement of the desired results. This includes quizzes, tests, homework, etc. This is also a good point to consider incorporating self-assessments and student reflections.
-```
+Students will have a touchpoint meeting every other week with meeting minutes summarized in a canvas reflection.
 
 ## Stage 3 - Learning Plan: _Summary of Key Learning Events and Instruction_
 
-```{note}
-This stage encompasses the individual learning activities and instructional strategies that will be employed. This includes lectures, discussions, problem-solving sessions, etc.
-```
+The course will contain five to six weeks of instruction followed by 9-10 weeks of lightly supervised working time. The following is a high level overview of the course schedule:
 
+1. Week 1
+    1. Syllabus
+    2. Project ideation 
+2. Week 2 
+    1. A project plan
+    2. Overview part
+    3. Assessment and control
+3. Week 4
+    1. Requirements design
+4. Week 5
+    1. Risk Management 
+5. Week 6 
+    1. Project Schedule 
+6. Week 7-15 
+7. Final Exam Retrospective meeting
 
-```{include} weekly_plans/1.md
+ ```{include} weekly_plans/1.md
 
 ```
 ```{include} weekly_plans/2.md
