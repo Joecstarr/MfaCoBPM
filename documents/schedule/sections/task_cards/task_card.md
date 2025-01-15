@@ -1,7 +1,9 @@
-_The following should serve as a template for a task card. This template can
+```{note}
+The following should serve as a template for a task card. This template can
 and should be modified for the specific project task is being planned. A copy
 of this template should be made for each task associated with
-the project. _
+the project.
+```
 
 # Title: **Title**
 
@@ -14,10 +16,13 @@ the project. _
 ## Assignee: **Person to work the task**
 
 ## Description
-_This subsection should contain a description for what the task is trying to accomplish._
+
+```{note}
+This subsection should contain a description for what the task is trying to accomplish.
+```
 
 ## Completion Criteria
-_This subsection contains a description for how the work product should look to consider the task "complete"_
 
-
-
+```{note}
+This subsection contains a description for how the work product should look to consider the task "complete"
+```

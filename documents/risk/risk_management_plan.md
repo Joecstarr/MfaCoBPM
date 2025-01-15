@@ -14,19 +14,23 @@ exports:
 
 # Risk Item Checklists
 
-_This subsection describes the risk item checklist for the project. The risk item checklist is intended to be guiding questions to help you develop risk cards. What is presented here should be considered a template and should be added to / changed for the specific project being developed._
+```{note}
+This subsection describes the risk item checklist for the project. The risk item checklist is intended to be guiding questions to help you develop risk cards. What is presented here should be considered a template and should be added to / changed for the specific project being developed.
 
-* What current situations might have future negative consequences for the project? 
+* What current situations might have future negative consequences for the project?
 * What current risk strategies may fail?
 * What events have happened in past projects that might appear in this project?
 * What events may be caused by human resources?
 * What events may be caused by technological resources?
+```
 
 # Risk Likelihood
 
-_This section describes the categorization of risk likelihood. Presented here is
+```{note}
+This section describes the categorization of risk likelihood. Presented here is
 a sample likelihood table. The table describes likelihood levels used for the
-project._
+project.
+```
 
 | Likelihood Level |                             Description                             |
 | :--------------: | :-----------------------------------------------------------------: |
@@ -39,9 +43,11 @@ project._
 
 # Risk Impact
 
-_This section describes the categorization of risk impact. Presented here is
+```{note}
+This section describes the categorization of risk impact. Presented here is
 a sample impact table. The table describes impact levels determined by worst
-impact of one of the three legs of the project triangle._
+impact of one of the three legs of the project triangle.
+```
 
 | Impact Level |                                     Cost Impact                                      |                                 Schedule Impact                                 |                                      Quality Impact                                       |
 | :----------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -56,8 +62,10 @@ impact of one of the three legs of the project triangle._
 
 # Risk Severity
 
-_This section describes the concept of risk severity the project will adopt.
-Given here is a sample description for defining severity._
+```{note}
+This section describes the concept of risk severity the project will adopt.
+Given here is a sample description for defining severity.
+```
 
 | Likelihood Level/Risk Impact |     1      |   2    |   3    |   4    |    5    |
 | :--------------------------: | :--------: | :----: | :----: | :----: | :-----: |
@@ -70,14 +78,17 @@ Given here is a sample description for defining severity._
 
 Risk analysis activities should be prioritized by severity in the following
 order:
+
 1. Extreme
 2. High
 3. Medium
 4. Low
 5. Acceptable
 
-_The level of detail required for the risk management and mitigation section
-of the risk card is project specific and should be described here._
+```{note}
+The level of detail required for the risk management and mitigation section
+of the risk card is project specific and should be described here.
+```
 
 # Risk Table
 
@@ -85,6 +96,6 @@ of the risk card is project specific and should be described here._
 
 ```
 
-# Resources 
+# Resources
 
-- https://static.e-publishing.af.mil/production/1/af_se/publication/dafpam90-803/dafpam90-803.pdf
+-   https://static.e-publishing.af.mil/production/1/af_se/publication/dafpam90-803/dafpam90-803.pdf
