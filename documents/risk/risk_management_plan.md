@@ -57,8 +57,7 @@ impact of one of the three legs of the project triangle.
 |      4       | If the event was to occur the project will go over budget by more than **percent**%. | If the event was to occur the project will be late by more than **time frame**. | If the event was to occur the project quality will need to be lowered by **description**. |
 |      5       |               If the event was to occur the project is unrecoverable.                |             If the event was to occur the project is unrecoverable.             |                  If the event was to occur the project is unrecoverable.                  |
 
-[@boehm1989software]
-[@williamsPuttingRiskManagement1997]
+[@boehm1989software; @williamsPuttingRiskManagement1997]
 
 # Risk Severity
 
@@ -98,4 +97,9 @@ of the risk card is project specific and should be described here.
 
 # Resources
 
--   https://static.e-publishing.af.mil/production/1/af_se/publication/dafpam90-803/dafpam90-803.pdf
+*   @pressmanSoftwareEngineeringPractitioners2015
+*   @internationaleelektrotechnischekommissionRiskManagementRisk2019
+*   @williamsPuttingRiskManagement1997
+*   @collawrencenixonRISKMANAGEMENTRM
+
+

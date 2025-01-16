@@ -10,10 +10,10 @@ sections. When filling out the management and mitigation sections it's useful
 to sort by severity.
 ```
 
-| Risk ID | Title | Impact | Likelihood | Severity |
-| :-----: | :---: | :----: | :--------: | :------: |
-|    1    |       |        |            |          |
-|    2    |       |        |            |          |
-|    3    |       |        |            |          |
-|    4    |       |        |            |          |
-|    5    |       |        |            |          |
+| Risk ID |               Title               | Likelihood | Impact | Severity |
+| :-----: | :-------------------------------: | :--------: | :----: | :------: |
+|    1    | Nulla pulvinar scelerisque tortor |     2      |   1    |   Low    |
+|    2    |         placerat finibus          |     4      |   5    | Extreme  |
+|    3    |        eget convallis nunc        |     5      |   2    | Extreme  |
+|    4    |    Lorem ipsum dolor sit amet     |     3      |   4    |   High   |
+|    5    |    Pellentesque habitant morbi    |     1      |   3    |  Medium  |
