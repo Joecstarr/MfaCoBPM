@@ -14,7 +14,9 @@ exports:
 
 This document contains the course design for the ISA:4041 "Senior Capstone"
 course at The University of Iowa. The design utilizes the "Backward Design" of
-@wigginsUnderstandingDesign2008. Many of the ideas come from @pressmanSoftwareEngineeringPractitioners2015 but have been massaged to be less software focused.
+@wigginsUnderstandingDesign2008. Many of the ideas come from
+@pressmanSoftwareEngineeringPractitioners2015 but have been massaged to be less
+software focused.
 
 # Overall Course Design
 
@@ -48,27 +50,28 @@ life cycle.
 
 _Students will understand that…_
 
--   Products have long lives but projects die fast.
--   Future you is a person that you need to collaborate with.
--   Project documentation makes life easier
--   Why risk management from the "Indiana Jones School of Risk Management" [@thomsettIndianaJonesSchool1992] is bad.
--   Projects fall behind "One day at a time" - Fred Brooks
+*   Product creation is an accomplishable endeavor.
+*   Products have long lives but projects die fast.
+*   Future you is a person that you need to collaborate with.
+*   Project documentation makes life easier.
+*   Why risk management from the "Indiana Jones School of Risk Management" [@thomsettIndianaJonesSchool1992] is bad.
+*   Projects fall behind "One day at a time" - Fred Brooks
 
 #### Essential Questions
 
--   How do you ideate for a project?
--   How do you design a project plan?
--   How do you evaluate risk?
--   How do you do you create a project schedule?
+*   How do you ideate for a project?
+*   How do you design a project plan?
+*   How do you evaluate risk?
+*   How do you do you create a project schedule?
 
 ### Acquisition
 
 #### Students will know…
 
--   How to use Crazy8s for ideation.
--   How a basic project plan is used.
--   How a risk management plan is used.
--   How a project is scheduled.
+*   How to use Crazy8s for ideation.
+*   How a basic project plan is used.
+*   How a risk management plan is used.
+*   How a project is scheduled.
 
 #### Students will be skilled at…
 
@@ -78,31 +81,37 @@ Students will be able to utilize project management tools in practice.
 
 ### Evaluative Criteria
 
--   Students have a well formed project plan.
--   Students have a well formed risk management plan.
--   Students have a well formed project schedule.
--   Students complete a project.
+*   Students have a well formed project plan.
+*   Students have a well formed risk management plan.
+*   Students have a well formed project schedule.
+*   Students complete a project.
 
 ### Assessment Evidence
 
 #### Performance Task(s):
 
-Students will complete a collection of project management documents for their project. The course will culminate with a 1:1 retrospective meeting where the student will present their completed material and reflect on successes and failures in their planning.
+Students will complete a collection of project management documents for their
+project. The course will culminate with a 1:1 retrospective meeting where the
+student will present their completed material and reflect on successes and
+failures in their planning.
 
 #### Other Evidence:
 
-Students will have a touchpoint meeting every other week with meeting minutes summarized in a canvas reflection.
+Students will have a touchpoint meeting every other week with meeting minutes
+summarized in a canvas reflection.
 
 ## Stage 3 - Learning Plan: _Summary of Key Learning Events and Instruction_
 
-The course will contain five to six weeks of instruction followed by 9-10 weeks of lightly supervised working time. The following is a high level overview of the course schedule:
+The course will contain five to six weeks of instruction followed by 9-10 weeks
+of lightly supervised working time. The following is a high level overview of
+the course schedule:
 
 1. Week 1
     1. Syllabus
     2. Project ideation
 2. Week 2
     1. A project plan
-    2. Overview part
+    2. Overview
     3. Assessment and control
 3. Week 4
     1. Requirements design
