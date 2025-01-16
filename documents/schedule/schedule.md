@@ -2,6 +2,7 @@
 title: Project Schedule
 authors:
     - name: Joe Starr
+date: 2024-01-16
 exports:
     - format: pdf
       template: curvenote
