@@ -13,6 +13,9 @@
     let
       system = "x86_64-linux";
       pkgs = nixpkgs.legacyPackages.${system};
+      tex = pkgs.texlive.combine {
+        inherit (pkgs.texlive) scheme-medium latexmk ifoddpage relsize mdframed zref needspace xcharter xstring xetex fontaxes amsmath lipsum enumitem glossaries listings tcolorbox environ tikzfill pdfcol sauerj adjustbox datetime fmtcount framed doi graphbox;
+      };
     in
     {
 
@@ -26,6 +29,9 @@
           nodejs
           just
           mystmd
+          tex
+          rsync
+          python3
           act
         ];
 
