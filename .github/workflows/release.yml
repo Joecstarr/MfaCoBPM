@@ -1,8 +1,9 @@
 name: Create release
 
 on:
-    push:
-        branches: [main]
+  push:
+    tags:
+      - "v*.*.*"
 
 permissions:
     contents: write
@@ -32,17 +33,11 @@ jobs:
                   nix develop --command \
                     just all
 
-            - uses: CupOfTea696/gh-action-auto-release@v1.0.0
-              with:
-                  title: "Release: $version"
-                  tag: "v$semver"
-                  draft: false
-                  regex: "/^Release: #{semver}$/i"
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
             - name: Release
               uses: softprops/action-gh-release@v2
-              if: startsWith(github.ref, 'refs/tags/')
               with:
-                  files: ./_build/exports/*.*
+                files: |
+                  ./_build/exports/*.pdf
+                  ./_build/exports/*.md
+                  ./_build/exports/*.docx
+                  README.md
