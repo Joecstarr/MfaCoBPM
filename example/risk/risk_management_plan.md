@@ -1,5 +1,5 @@
 ---
-title: Risk Management Plan
+title: Birdhouse Risk Management Plan
 authors:
     - name: Joe Starr
 date: 2024-01-16
@@ -7,10 +7,6 @@ exports:
     - format: pdf
       template: curvenote
       logo: false
-    - format: docx
-      template: curvenote
-      hideFooter: true
-    - format: md
 ---
 
 # Risk Item Checklists

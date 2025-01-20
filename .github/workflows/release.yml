@@ -32,12 +32,13 @@ jobs:
               run: |
                   nix develop --command \
                     just all
+                    just example
 
             - name: Release
               uses: softprops/action-gh-release@v2
               with:
                 files: |
-                  ./_build/exports/*.pdf
-                  ./_build/exports/*.md
-                  ./_build/exports/*.docx
+                  ./**/_build/*.pdf
+                  ./**/_build/*.md
+                  ./**/_build/*.docx
                   README.md

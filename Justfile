@@ -6,6 +6,13 @@ bootstrap:
     uv venv
     uv pip install -r requirements.txt
 
+[working-directory: 'example']
+example:
+    myst clean --all -y
+    myst init --write-toc
+    myst build --pdf
+
+
 # Build project plan
 plan:
     myst build ./documents/plan/project_plan.md
