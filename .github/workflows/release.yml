@@ -41,4 +41,3 @@ jobs:
                   ./**/_build/*.pdf
                   ./**/_build/*.md
                   ./**/_build/*.docx
-                  README.md
