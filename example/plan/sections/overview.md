@@ -1,6 +1,5 @@
 ## High Level Description
 
-
 The project is to build a birdhouse production program for a non-profit.
 The birdhouses will assist in the repopulation efforts of the endangered lesser
 snipe.
@@ -10,7 +9,7 @@ snipe.
 The primary objective of this project is to construct a birdhouse production
 program for a birdhouse that is quickly and efficiently reproducible. The
 birdhouse must be producible by a team of volunteers with little to no
-training out of cheap readily available materials.
+training out of cheap readily available materials and tools.
 
 ### Purpose
 
@@ -33,7 +32,6 @@ the impact of habitat loss and offer a sanctuary for these birds to thrive.
 
 ### Scope
 
-
 This project will create a design for the creation of a birdhouse. The design
 will include a blueprint for the birdhouse as well as a production strategy.
 Additionally to show proof of concept, a run of birdhouses will be produced with
@@ -47,40 +45,52 @@ will be considered out of scope for this project.
 The project will be considered complete when the following have been delivered
 to the customer:
 
-* A blueprint for birdhouses.
-* A production strategy for birdhouses.
-* A sample run of birdhouses with an after action report for the production
+-   A blueprint for birdhouses.
+-   A production strategy for birdhouses.
+-   A sample run of birdhouses with an after action report for the production
     strategy.
-
-```{note}
-This subsection should describe what the "completed" product this project is
-building looks like. If you have a customer what do you hand to them at the
-end? This could, and likely does, include "beta"/draft versions of the
-deliverables at project milestones.
-```
 
 #### Milestones
 
-```{note}
-This subsubsection documents the project milestones and their deliverables, quality goals, and agreed on delivery dates. Having specific milestones for the project allows project members to see and feel the project progress. Further milestones serve as a risk assessment tool.
-```
+The project has the following milestones:
+
+| Milestone                            | Deliverables and Quality                                                                                                                                                                                                                                                                                                                                   |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Release 1: Blueprint Draft           | - Blueprint: This will include basic material selection and some requirements satisfied. <br/> - Production Strategy: Not expected. <br/> - Sample Run: Not expected.                                                                                                                                                                                      |
+| Release 2: Production Strategy Draft | - Blueprint: This will show minor progress on requirements compared with Release 1. <br/> - Production Strategy: This will include initial progress on requirements for the production strategy. <br/> - Sample Run: Not expected.                                                                                                                         |
+| Release 3: Blueprint Final           | - Blueprint: This will include all initial requirements as satisfied. <br/> - Production Strategy: This will show minor progress on requirements compared with Release 2. <br/> - Sample Run: Not expected.                                                                                                                                                |
+| Release 4: Sample Run and Report     | - Blueprint: This will show progress on any changed requirements from Release 3. <br/> - Production Strategy: This will be a functionally complete production strategy. <br/> - Sample Run: This will include sample birdhouses as well as the after action report. This will also include updated requirements for the blueprint and production strategy. |
+| Release 5: Production Strategy Final | - Blueprint: This will include all requirements as satisfied. <br/> - Production Strategy: This will include all requirements as satisfied. <br/> - Sample Run: This will include sample birdhouses as well as the after action report.                                                                                                                    |
 
 ### Infrastructure, tools, and methods
 
-```{note}
-This subsection of the project plan describes what "things" are needed to complete
-the project. Do you need a specific tool to plan the project (infrastructure)?
-Do you need a tool or procedure while constructing the project? As an example,
-if the project is to build a wooden chest, you may need a table saw to complete
-the project.
-```
+#### Blueprint
+
+The blueprint will require the following tools:
+
+-   A CAD software
+-   A change control software
+
+#### Production Strategy
+
+The Production Strategy will require the following:
+
+-   A text editor such as Microsoft Word
+-   A diagramming tool such as Microsoft Visio
+
+#### Sample Run and Report
+
+The Sample Run and Report will require a space with volunteers to carry out the
+run. The tools and materials expected for use by volunteers include:
+
+-   Hammer
+-   Nails
+-   Hand saw
+-   Glue
+-   Tape measure
 
 ## Project Constraints
 
-````{note}
-This section describes limitations imposed on the project. These constraints
-will inform the ```risk_management_plan``` as well as the ```schedule```.
-````
 
 (personnel)=
 
@@ -94,25 +104,28 @@ will inform the ```risk_management_plan``` as well as the ```schedule```.
 
 ### Timing
 
-```{note}
-This subsection describes the timing constraints for the project. What is the
-due date? Are there 'beta' releases described in deliverables. The combination
-of this section and [SubSec. %s](#personnel) give the basis for determining the
-schedule.
-```
+The project has the following timing:
+
+| Milestone                            | Delivery Date |
+| :----------------------------------- | :-----------: |
+| Release 1: Blueprint Draft           |   1/11/2099   |
+| Release 2: Production Strategy Draft |   2/11/2099   |
+| Release 3: Blueprint Final           |   3/11/2099   |
+| Release 4: Sample Run and Report     |   4/11/2099   |
+| Release 5: Production Strategy Final |   5/11/2099   |
 
 ### Technological
 
-```{note}
-This subsection describes the technological constraints for the project.
-Perhaps we're building a wood puzzle and don't have access to a laser cutter.
-This might require us to reduce the scope/requirements of the project to a paper
-model.
-```
+Cost of software licensing is not included in the project plan, licensing to
+the following basic software tools to be provided by the customer:
+
+-   A CAD software
+-   A change control software
+-   A text editor such as Microsoft Word
+-   A diagramming tool such as Microsoft Visio
+
 
 ### Budget
 
-```{note}
-This subsection describes the monetary constraints for the project. How much do
-we have to spend? Do the funds come in phases or as a lump sum?
-```
+The customer will be funding the project in phases aligned with the release
+schedule.
