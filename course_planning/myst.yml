@@ -16,22 +16,17 @@ project:
             enabled: true
         heading_6:
             enabled: true
-    id: 28ae89ab-cba9-440d-a062-08075e0d441b
+    id: 28ae89ab-cba9-440d-a062-08075e0d441d
     toc:
         - file: ../README.md
-        - file: "plan/birdhouse_project_plan.md"
+        - file: "course_design.md"
           children:
-              - pattern: "plan/sections/**/*.md"
-        - file: "risk/birdhouse_risk_management_plan.md"
-          children:
-              - pattern: "risk/sections/**/*.md"
-        - file: "schedule/birdhouse_schedule.md"
-          children:
-              - pattern: "schedule/sections/**/*.md"
-    plugins:
-        - type: executable
-          path: ../plugins/mermaid/default.py
+              - pattern: "weekly_plans/**/*.md"
     bibliography:
-        - "../refs.bib"
+      - "../refs.bib"
+    plugins:
+      - type: executable
+        path: ../plugins/mermaid/default.py
+
 site:
     template: article-theme
