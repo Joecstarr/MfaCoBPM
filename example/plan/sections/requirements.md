@@ -1,14 +1,20 @@
 (RSD)=
 ## Requirement Scope Description
 
-```{note}
-This section documents what the "shape" of a requirement is in this project.
-Requirements describe what qualities will be used to evaluate project
-completion. A project
-What should the "size"/scope of a requirement be? What is to specific of a
-requirement for this project? What is not specific enough for this project?
-What information must be included in all requirements?
-```
+A requirement contains a discrete goal or feature for a project deliverable.
+Those discrete goals and features should be tightly couplable to project tasks.
+Each requirement has the following fields:
+
+
+* Requirement ID
+* Requirement Title
+* Requirement Description
+    - Associated Deliverable: This field describes which deliverable the
+        requirement is for.
+    - Expected Release: This field describes which release this requirement will
+        be satisfied in.
+    - Requirement Text: This field contains the actual text for the requirement.
+
 
 ## Requirements List
 

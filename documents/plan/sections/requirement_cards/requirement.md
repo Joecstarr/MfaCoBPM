@@ -1,3 +1,17 @@
+---
+title: Requirement Card
+authors:
+  - name: Joe Starr
+date: 2024-01-16
+exports:
+    - format: pdf
+      template: curvenote
+      logo: false
+    - format: docx
+      template: curvenote
+      hideFooter: true
+    - format: md
+---
 ```{note}
 The following should serve as a template for a requirement card. This template can
 and should be modified for the specific project this plan is describing. A copy

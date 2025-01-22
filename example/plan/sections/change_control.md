@@ -1,29 +1,34 @@
+(SCCP)=
 ## Scope Change Control Plan
 
-```{note}
-This section of the project plan describes how you will manage a change to
-the scope of the project. What is the process you will undertake to modify scope
-if you find out that a portion of the project is much harder than you expected?
-What is the process you will undertake to modify scope if a customer requests a
-change in requirements? Perhaps you agreed on a paper model and the customer
-now wants something more. Under what situations can you say no to a scope change
-by a customer?
-```
+Scope changes are acceptable at the following four points in the project life
+cycle:
+
+1. Project Kickoff
+2. Post Release 1 (limited to blueprint requirements)
+2. Post Release 2 (limited to production strategy requirements)
+2. Post Release 4 (limited to minor changes to blueprint and/or production strategy requirements)
+
+Any requested scope changes outside these time frames may not be considered.
+
+A requested scope changes may incur additional cost and/or schedule delays.
+Cost and schedule impact will be analyzed by the project team then summarized
+and presented to the stakeholders for acceptance. When change analysis is
+presented the stakeholder has a fixed window to accept the estimate, failure to
+respond will be interpreted as non-acceptance and the scope change will not
+be taken up.
+
 
 ## Requirements Management Plan
 
-```{note}
-This section of the project plan describes how you will manage the requirements
-for the project. How will you develop a list of requirements? How will you store
-those requirements? How will you modify requirements if there is a scope change?
-```
+Requirements will be stored as individual requirement cards as described in
+[Sec. %s](#RSD). Requirement definition will be carried out by the project team.
+Upon competition of requirement definition all cards will be supplied to
+stakeholders for acceptance, as per [Sec. %s](#SCCP). Any deviation to
+requirements will be communicated to and agreed on with an on demand process.
 
 ## Schedule Control Plan
 
-```{note}
-This section of the project plan describes how you will manage the project
-schedule. What tool will you use for task planning? What is the scope of a
-single task? How will you identify the critical path? How will you ensure the
-schedule stays on track? How will you identify when the schedule is off track?
-How will you adjust the schedule when it gets off track?
-```
+The project will be scheduled as a collection of tasks. Tasks will be stored
+as individual task cards. The project manager will monitor the health of the
+project by monitory the project kanban board and its associated Gantt chart.

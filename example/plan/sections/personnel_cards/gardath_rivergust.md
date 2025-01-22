@@ -1,10 +1,11 @@
-# Name: Gardath Rivergust
+(Gardath-Rivergust)=
+##### Name: Gardath Rivergust
 
-## Role: Design Engineer
+###### Role: Design Engineer
 
 Gardath is a skilled design engineer with strong CAD skills. He will use those
 skills as the primary designer for the birdhouse blueprint.
 
-## Restrictions
+###### Restrictions
 
 Gardath has no restrictions on his participation in the project.
