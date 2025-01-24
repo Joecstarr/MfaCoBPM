@@ -16,9 +16,13 @@ exports:
 # Risk Item Checklists
 
 ```{note}
-This subsection describes the risk item checklist for the project. The risk item checklist is intended to be guiding questions to help you develop risk cards. What is presented here should be considered a template and should be added to / changed for the specific project being developed.
+This subsection describes the risk item checklist for the project. The risk item
+checklist is intended to be guiding questions to help you develop risk cards.
+What is presented here should be considered a template and should be added to /
+changed for the specific project being developed.
 
-* What current situations might have future negative consequences for the project?
+* What current situations might have future negative consequences for the
+    project?
 * What current risk strategies may fail?
 * What events have happened in past projects that might appear in this project?
 * What events may be caused by human resources?
@@ -67,12 +71,12 @@ This section describes the concept of risk severity the project will adopt.
 Given here is a sample description for defining severity.
 ```
 
-| Likelihood Level/Risk Impact |     1      |   2    |   3    |   4    |    5    |
-| :--------------------------: | :--------: | :----: | :----: | :----: | :-----: |
-|              1               | Acceptable |  Low   | Medium | Medium | Extreme |
-|              2               |    Low     |  Low   | Medium |  High  | Extreme |
-|              3               |    Low     | Medium | Medium |  High  | Extreme |
-|              4               |   Medium   |  High  |  High  |  High  | Extreme |
+| Likelihood Level\ Impact Level |     1      |   2    |   3    |   4    |    5    |
+| :----------------------------: | :--------: | :----: | :----: | :----: | :-----: |
+|               1                | Acceptable |  Low   | Medium | Medium | Extreme |
+|               2                |    Low     |  Low   | Medium |  High  | Extreme |
+|               3                |    Low     | Medium | Medium |  High  | Extreme |
+|               4                |   Medium   |  High  |  High  |  High  | Extreme |
 
 [@williamsPuttingRiskManagement1997]
 
@@ -98,9 +102,7 @@ of the risk card is project specific and should be described here.
 
 # Resources
 
-*   @pressmanSoftwareEngineeringPractitioners2015
-*   @internationaleelektrotechnischekommissionRiskManagementRisk2019
-*   @williamsPuttingRiskManagement1997
-*   @collawrencenixonRISKMANAGEMENTRM
-
-
+-   @pressmanSoftwareEngineeringPractitioners2015
+-   @internationaleelektrotechnischekommissionRiskManagementRisk2019
+-   @williamsPuttingRiskManagement1997
+-   @collawrencenixonRISKMANAGEMENTRM

@@ -1,9 +1,9 @@
 name: Create release
 
 on:
-  push:
-    tags:
-      - "v*.*.*"
+    push:
+        tags:
+            - "v*.*.*"
 
 permissions:
     contents: write
@@ -27,7 +27,6 @@ jobs:
 
             - uses: DeterminateSystems/magic-nix-cache-action@main
 
-
             - name: Build dist
               run: |
                   nix develop --command \
@@ -36,8 +35,7 @@ jobs:
             - name: Release
               uses: softprops/action-gh-release@v2
               with:
-                files: |
-                  ./_build/exports/*.pdf
-                  ./_build/exports/*.md
-                  ./_build/exports/*.docx
-                  README.md
+                  files: |
+                      ./documents/_build/exports/project_plan_template_docs.zip
+                      ./example/_build/exports/example_project_plan.zip
+                      ./course_planning/_build/exports/*.*

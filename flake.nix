@@ -33,6 +33,7 @@
           rsync
           python3
           act
+          zip
         ];
 
         shellHook = ''

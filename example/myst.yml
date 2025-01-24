@@ -1,0 +1,37 @@
+version: 1
+project:
+    github: https://github.com/Joecstarr/4041_capstone_materials
+    open_access: true
+    license: CC-BY-4.0
+    numbering:
+        heading_1:
+            enabled: true
+        heading_2:
+            enabled: true
+        heading_3:
+            enabled: true
+        heading_4:
+            enabled: true
+        heading_5:
+            enabled: true
+        heading_6:
+            enabled: true
+    id: 28ae89ab-cba9-440d-a062-08075e0d441b
+    toc:
+        - file: ../README.md
+        - file: "plan/birdhouse_project_plan.md"
+          children:
+              - pattern: "plan/sections/**/*.md"
+        - file: "risk/birdhouse_risk_management_plan.md"
+          children:
+              - pattern: "risk/sections/**/*.md"
+        - file: "schedule/birdhouse_schedule.md"
+          children:
+              - pattern: "schedule/sections/**/*.md"
+    plugins:
+        - type: executable
+          path: ../plugins/mermaid/default.py
+    bibliography:
+        - "../refs.bib"
+site:
+    template: article-theme

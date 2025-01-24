@@ -2,6 +2,7 @@
 title: Course Design
 authors:
     - name: Joe Starr
+date: 2025-01-19
 exports:
     - format: pdf
       template: curvenote

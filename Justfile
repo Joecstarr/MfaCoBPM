@@ -6,31 +6,42 @@ bootstrap:
     uv venv
     uv pip install -r requirements.txt
 
-# Build project plan
-plan:
-    myst build ./documents/plan/project_plan.md
-
-# Build risk management plan
-risk:
-    myst build ./documents/risk/risk_management_plan.md
+[working-directory: 'example']
+example:
+    myst clean --all -y
+    myst init --write-toc
+    myst build ./plan/birdhouse_project_plan.md --pdf
+    myst build ./risk/birdhouse_risk_management_plan.md --pdf
+    myst build ./schedule/birdhouse_schedule.md --pdf
+    just rename
+    zip -r ./_build/example_project_plan.zip ./_build/exports
 
 # Build scheduling doc
-schedule:
-    myst build ./documents/schedule/schedule.md
+[working-directory: 'documents']
+docs:
+    myst clean --all -y
+    myst init --write-toc
+    myst build ./plan/project_plan.md
+    myst build ./plan/sections/personnel_cards/person.md
+    myst build ./plan/sections/requirement_cards/requirement.md
+    myst build ./risk/risk_management_plan.md
+    myst build ./risk/sections/risk_cards/risk_card.md
+    myst build ./schedule/schedule.md
+    myst build ./schedule/sections/task_cards/task_card.md
+    just rename
+    zip -r ./_build/project_plan_template_docs.zip ./_build/exports
 
 # Build course design docs
+[working-directory: 'course_planning']
 design:
-    myst build ./course_planning/course_design.md
+    myst clean --all -y
+    myst init --write-toc
+    myst build ./course_design.md
+    just rename
 
 # Rename files: .doc -> .docx
 rename:
-    find ./_build/exports/ -iname "*.doc" -exec sh -c 'mv "${1}" "${1%.*}.docx" ' sh {} \;
-
-toc:
-    myst init --write-toc
-
-clean:
-    myst clean --all -y
+    find . -iname "*.doc" -exec sh -c 'mv "${1}" "${1%.*}.docx" ' sh {} \;
 
 # This will only work for how I (@joecstarr) have zotero set up.
 bib:
@@ -39,10 +50,6 @@ bib:
 
 # Build all the things.
 all:
-    just clean
-    just toc
-    just plan
-    just risk
-    just schedule
+    just example
+    just docs
     just design
-    just rename

@@ -1,3 +1,17 @@
+---
+title: Task Card
+authors:
+  - name: Joe Starr
+date: 2024-01-16
+exports:
+    - format: pdf
+      template: curvenote
+      logo: false
+    - format: docx
+      template: curvenote
+      hideFooter: true
+    - format: md
+---
 ```{note}
 The following should serve as a template for a task card. This template can
 and should be modified for the specific project task is being planned. A copy
@@ -18,11 +32,13 @@ the project.
 ## Description
 
 ```{note}
-This subsection should contain a description for what the task is trying to accomplish.
+This subsection should contain a description for what the task is trying to
+accomplish.
 ```
 
 ## Completion Criteria
 
 ```{note}
-This subsection contains a description for how the work product should look to consider the task "complete"
+This subsection contains a description for how the work product should look to
+consider the task "complete"
 ```
