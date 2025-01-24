@@ -33,4 +33,5 @@ The project risk analysis can be found in the "Risk Management Plan" document.
 
 # Project Schedule
 
-The project planning and schedule can be found in the "Project Schedule" document.
+The project planning and schedule can be found in the "Project Schedule"
+document.

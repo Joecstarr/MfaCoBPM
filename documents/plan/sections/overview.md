@@ -5,7 +5,7 @@
 
 ```{note}
 This section of the project plan describes the project at the highest level.
-This section is completed after ideation
+This section is completed after ideation.
 ```
 
 
@@ -44,18 +44,21 @@ deliverables at project milestones.
 #### Milestones
 
 ```{note}
-This subsubsection documents the project milestones and their deliverables, quality goals, and agreed on delivery dates. Having specific milestones for the project allows project members to see and feel the project progress. Further milestones serve as a risk assessment tool.
+This subsubsection documents the project milestones and their deliverables,
+quality goals, and agreed on delivery dates. Having specific milestones for the
+project allows project members to see and feel the project progress. Further
+milestones serve as a risk assessment tool.
 ```
 
 
 ### Infrastructure, tools, and methods
 
 ```{note}
-This subsection of the project plan describes what "things" are needed to complete
-the project. Do you need a specific tool to plan the project (infrastructure)?
-Do you need a tool or procedure while constructing the project? As an example,
-if the project is to build a wooden chest, you may need a table saw to complete
-the project.
+This subsection of the project plan describes what "things" are needed to
+complete the project. Do you need a specific tool to plan the project
+(infrastructure)? Do you need a tool or procedure while constructing the
+project? As an example, if the project is to build a wooden chest, you may need
+a table saw to complete the project.
 ```
 
 ## Project Constraints

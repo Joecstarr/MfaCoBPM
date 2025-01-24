@@ -16,9 +16,13 @@ exports:
 # Risk Item Checklists
 
 ```{note}
-This subsection describes the risk item checklist for the project. The risk item checklist is intended to be guiding questions to help you develop risk cards. What is presented here should be considered a template and should be added to / changed for the specific project being developed.
+This subsection describes the risk item checklist for the project. The risk item
+checklist is intended to be guiding questions to help you develop risk cards.
+What is presented here should be considered a template and should be added to /
+changed for the specific project being developed.
 
-* What current situations might have future negative consequences for the project?
+* What current situations might have future negative consequences for the
+    project?
 * What current risk strategies may fail?
 * What events have happened in past projects that might appear in this project?
 * What events may be caused by human resources?

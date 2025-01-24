@@ -4,11 +4,10 @@ contain a list of all people who will work on the project and what their roles
 are.
 ```
 
-
 | Name | Role |
-| :-----: | :---: |
-|    1    |       |
-|    2    |       |
-|    3    |       |
-|    4    |       |
-|    5    |       |
+| :--: | :--: |
+|  1   |      |
+|  2   |      |
+|  3   |      |
+|  4   |      |
+|  5   |      |
