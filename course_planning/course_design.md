@@ -64,7 +64,8 @@ _Students will understand that…_
 *   How do you ideate for a project?
 *   How do you design a project plan?
 *   How do you evaluate risk?
-*   How do you do you create a project schedule?
+*   How do you create tasks for a project?
+*   How do you create a project schedule?
 
 ### Acquisition
 
