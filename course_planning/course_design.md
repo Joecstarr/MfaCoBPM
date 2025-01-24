@@ -115,11 +115,11 @@ the course schedule:
     1. A project plan
     2. Overview
     3. Assessment and control
-3. Week 4
+3. Week 3
     1. Requirements design
-4. Week 5
+4. Week 4
     1. Risk Management
-5. Week 6
+5. Week 5
     1. Project Schedule
 6. Week 7-15
 7. Final Exam Retrospective meeting
