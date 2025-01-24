@@ -14,6 +14,7 @@ example:
     myst build ./risk/birdhouse_risk_management_plan.md --pdf
     myst build ./schedule/birdhouse_schedule.md --pdf
     just rename
+    zip -r ./_build/example_project_plan.zip ./_build/exports
 
 # Build scheduling doc
 [working-directory: 'documents']
@@ -28,6 +29,7 @@ docs:
     myst build ./schedule/schedule.md
     myst build ./schedule/sections/task_cards/task_card.md
     just rename
+    zip -r ./_build/project_plan_template_docs.zip ./_build/exports
 
 # Build course design docs
 [working-directory: 'course_planning']
