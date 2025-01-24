@@ -36,6 +36,6 @@ jobs:
               uses: softprops/action-gh-release@v2
               with:
                   files: |
-                      ./documents/_build/exports/project_plan_template_docs.zip
-                      ./example/_build/exports/example_project_plan.zip
+                      ./documents/_build/project_plan_template_docs.zip
+                      ./example/_build/example_project_plan.zip
                       ./course_planning/_build/exports/*.*
