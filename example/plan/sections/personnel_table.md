@@ -1,8 +1,8 @@
-| Name                   |            Role             |
-| :--------------------- | :-------------------------: |
-| Gardath Rivergust [](#Gardath-Rivergust)       |       Design Engineer       |
-| Miflarho Ambersprinter [](#Miflarho-Ambersprinter)  |       Project Manager       |
-| Essoh Reegem [](#Essoh-Reegem)           | Process/Industrial Engineer |
+| Name                                               | Role                        |
+| :------------------------------------------------- | :-------------------------- |
+| Gardath Rivergust [](#Gardath-Rivergust)           | Design Engineer             |
+| Miflarho Ambersprinter [](#Miflarho-Ambersprinter) | Project Manager             |
+| Essoh Reegem [](#Essoh-Reegem)                     | Process/Industrial Engineer |
 
 #### Personnel Cards
 
