@@ -55,6 +55,7 @@ _Students will understand that…_
 *   Products have long lives but projects die fast.
 *   Future you is a person that you need to collaborate with.
 *   Project documentation makes life easier.
+-   Stakeholder agreement is essential.
 *   Why risk management from the "Indiana Jones School of Risk Management" [@thomsettIndianaJonesSchool1992] is bad.
 *   Projects fall behind "One day at a time" - Fred Brooks
 
