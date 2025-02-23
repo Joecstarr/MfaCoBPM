@@ -20,7 +20,7 @@ jobs:
             - name: Check Nixpkgs inputs
               uses: DeterminateSystems/flake-checker-action@main
               with:
-                  fail-mode: false
+                  fail-mode: true
 
             - name: Install Nix
               uses: DeterminateSystems/nix-installer-action@main
