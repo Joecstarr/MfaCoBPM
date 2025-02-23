@@ -42,8 +42,8 @@ hypothetical birdhouse building project.
 
 ```bibtex
 @misc{starrMfaCoBPM,
-  title = {{{Materials for a Course on Basic Project Management}}},
-  author = {{Starr, Joseph},
+  title = {Materials for a Course on Basic Project Management},
+  author = {Starr, Joseph},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Joecstarr/MfaCoBPM/releases/latest}},
