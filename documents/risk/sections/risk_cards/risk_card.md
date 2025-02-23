@@ -48,3 +48,4 @@ How will the event causing the risk be avoided?
 This subsection gives an overview of the manage strategy for this risk.
 In the event that this event happens how will the team respond?
 ```
+

@@ -81,9 +81,10 @@ flowchart TB
     r4-.->r5
 
 ```
+
 The critical path tasks for the project are:
 
-- 1 [](#T1)
-- 2 [](#T2)
-- 3 [](#T3)
+-   1 [](#T1)
+-   2 [](#T2)
+-   3 [](#T3)
 

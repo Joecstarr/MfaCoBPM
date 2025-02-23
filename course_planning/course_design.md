@@ -40,8 +40,8 @@ The overarching theme for the course is:
 
 _Students will be able to independently use their learning to…_
 
-Students should leave this course knowing that there are tools to reach
-for when planning in future projects. Additionally, students should have surface
+Students should leave this course knowing that there are tools to reach for when
+planning in future projects. Additionally, students should have surface
 understanding at least one specific tool to manage each section of the project
 life cycle.
 
@@ -51,30 +51,33 @@ life cycle.
 
 _Students will understand that…_
 
-*   Product creation is an accomplishable endeavor.
-*   Products have long lives but projects die fast.
-*   Future you is a person that you need to collaborate with.
-*   Project documentation makes life easier.
--   Stakeholder agreement is essential.
-*   Why risk management from the "Indiana Jones School of Risk Management" [@thomsettIndianaJonesSchool1992] is bad.
-*   Projects fall behind "One day at a time" - Fred Brooks
+-   Product creation is an accomplishable endeavor.
+-   Products have long lives but projects die fast.
+-   Future you is a person that you need to collaborate with.
+-   Project documentation makes life easier.
+
+*   Stakeholder agreement is essential.
+
+-   Why risk management from the "Indiana Jones School of Risk Management"
+    [@thomsettIndianaJonesSchool1992] is bad.
+-   Projects fall behind "One day at a time" - Fred Brooks
 
 #### Essential Questions
 
-*   How do you ideate for a project?
-*   How do you design a project plan?
-*   How do you evaluate risk?
-*   How do you create tasks for a project?
-*   How do you create a project schedule?
+-   How do you ideate for a project?
+-   How do you design a project plan?
+-   How do you evaluate risk?
+-   How do you create tasks for a project?
+-   How do you create a project schedule?
 
 ### Acquisition
 
 #### Students will know…
 
-*   How to use Crazy8s for ideation.
-*   How a basic project plan is used.
-*   How a risk management plan is used.
-*   How a project is scheduled.
+-   How to use Crazy8s for ideation.
+-   How a basic project plan is used.
+-   How a risk management plan is used.
+-   How a project is scheduled.
 
 #### Students will be skilled at…
 
@@ -84,10 +87,10 @@ Students will be able to utilize project management tools in practice.
 
 ### Evaluative Criteria
 
-*   Students have a well formed project plan.
-*   Students have a well formed risk management plan.
-*   Students have a well formed project schedule.
-*   Students complete a project.
+-   Students have a well formed project plan.
+-   Students have a well formed risk management plan.
+-   Students have a well formed project schedule.
+-   Students complete a project.
 
 ### Assessment Evidence
 
@@ -144,3 +147,4 @@ the course schedule:
 ```{include} weekly_plans/5.md
 
 ```
+
