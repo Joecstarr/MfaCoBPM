@@ -1,7 +1,7 @@
 ---
 title: Requirement Card
 authors:
-  - name: Joe Starr
+    - name: Joe Starr
 date: 2024-01-16
 exports:
     - format: pdf
@@ -12,6 +12,7 @@ exports:
       hideFooter: true
     - format: md
 ---
+
 ```{note}
 The following should serve as a template for a requirement card. This template
 can and should be modified for the specific project this plan is describing.
@@ -37,3 +38,4 @@ language, for example consider using "shall" over "should".
 This subsubsection should describe what if any deviations are being made to
 this requirement.
 ```
+

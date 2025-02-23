@@ -1,13 +1,9 @@
-
-
-
 ## High Level Description
 
 ```{note}
 This section of the project plan describes the project at the highest level.
 This section is completed after ideation.
 ```
-
 
 ### Objectives
 
@@ -50,7 +46,6 @@ project allows project members to see and feel the project progress. Further
 milestones serve as a risk assessment tool.
 ```
 
-
 ### Infrastructure, tools, and methods
 
 ```{note}
@@ -63,19 +58,23 @@ a table saw to complete the project.
 
 ## Project Constraints
 
-```{note}
+````{note}
 This section describes limitations imposed on the project. These constraints
 will inform the ```risk_management_plan``` as well as the ```schedule```.
-```
+````
 
 (personnel)=
+
 ### Personnel
 
 ```{include} ./personnel_table.md
+
 ```
 
 (timing)=
+
 ### Timing
+
 ```{note}
 This subsection describes the timing constraints for the project. What is the
 due date? Are there 'beta' releases described in deliverables. The combination
@@ -84,6 +83,7 @@ schedule.
 ```
 
 ### Technological
+
 ```{note}
 This subsection describes the technological constraints for the project.
 Perhaps we're building a wood puzzle and don't have access to a laser cutter.
@@ -92,6 +92,7 @@ model.
 ```
 
 ### Budget
+
 ```{note}
 This subsection describes the monetary constraints for the project. How much do
 we have to spend? Do the funds come in phases or as a lump sum?

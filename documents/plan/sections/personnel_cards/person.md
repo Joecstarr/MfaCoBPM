@@ -1,7 +1,7 @@
 ---
 title: Personnel Card
 authors:
-  - name: Joe Starr
+    - name: Joe Starr
 date: 2024-01-16
 exports:
     - format: pdf
@@ -12,6 +12,7 @@ exports:
       hideFooter: true
     - format: md
 ---
+
 ```{note}
 The following should serve as a template for a person card. This template can
 and should be modified for the specific project this plan is describing. A copy
@@ -34,3 +35,4 @@ complete?
 ```{note}
 This subsubsubsection should describe what the person can't be scheduled for.
 ```
+

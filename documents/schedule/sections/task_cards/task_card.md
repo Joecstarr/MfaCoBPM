@@ -1,7 +1,7 @@
 ---
 title: Task Card
 authors:
-  - name: Joe Starr
+    - name: Joe Starr
 date: 2024-01-16
 exports:
     - format: pdf
@@ -12,6 +12,7 @@ exports:
       hideFooter: true
     - format: md
 ---
+
 ```{note}
 The following should serve as a template for a task card. This template can
 and should be modified for the specific project task is being planned. A copy
@@ -42,3 +43,4 @@ accomplish.
 This subsection contains a description for how the work product should look to
 consider the task "complete"
 ```
+

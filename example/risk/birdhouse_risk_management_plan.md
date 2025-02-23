@@ -11,9 +11,11 @@ exports:
 
 # Risk Item Checklists
 
--   What current situations might have future negative consequences for the project?
+-   What current situations might have future negative consequences for the
+    project?
 -   What current risk strategies may fail?
--   What events have happened in past projects that might appear in this project?
+-   What events have happened in past projects that might appear in this
+    project?
 -   What events may be caused by human resources?
 -   What events may be caused by technological resources?
 
@@ -72,3 +74,4 @@ order:
 -   @internationaleelektrotechnischekommissionRiskManagementRisk2019
 -   @williamsPuttingRiskManagement1997
 -   @collawrencenixonRISKMANAGEMENTRM
+

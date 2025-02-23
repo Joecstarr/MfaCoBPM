@@ -1,15 +1,15 @@
 ## High Level Description
 
-The project is to build a birdhouse production program for a non-profit.
-The birdhouses will assist in the repopulation efforts of the endangered lesser
+The project is to build a birdhouse production program for a non-profit. The
+birdhouses will assist in the repopulation efforts of the endangered lesser
 snipe.
 
 ### Objectives
 
 The primary objective of this project is to construct a birdhouse production
 program for a birdhouse that is quickly and efficiently reproducible. The
-birdhouse must be producible by a team of volunteers with little to no
-training out of cheap readily available materials and tools.
+birdhouse must be producible by a team of volunteers with little to no training
+out of cheap readily available materials and tools.
 
 ### Purpose
 
@@ -17,8 +17,8 @@ The lesser snipe, a small and elusive bird, is facing a dire threat due to
 habitat loss. Found primarily in wetlands and marshy areas, this bird relies on
 these environments for nesting, feeding, and breeding. Unfortunately, rapid
 urbanization, agricultural expansion, and climate change have led to the
-destruction and degradation of these crucial habitats, pushing the lesser
-snipe towards the brink of extinction.
+destruction and degradation of these crucial habitats, pushing the lesser snipe
+towards the brink of extinction.
 
 The lesser snipe is known for its distinctive long bill and cryptic plumage,
 which provides excellent camouflage among reeds and grasses. Despite its
@@ -91,7 +91,6 @@ run. The tools and materials expected for use by volunteers include:
 
 ## Project Constraints
 
-
 (personnel)=
 
 ### Personnel
@@ -116,16 +115,16 @@ The project has the following timing:
 
 ### Technological
 
-Cost of software licensing is not included in the project plan, licensing to
-the following basic software tools to be provided by the customer:
+Cost of software licensing is not included in the project plan, licensing to the
+following basic software tools to be provided by the customer:
 
 -   A CAD software
 -   A change control software
 -   A text editor such as Microsoft Word
 -   A diagramming tool such as Microsoft Visio
 
-
 ### Budget
 
 The customer will be funding the project in phases aligned with the release
 schedule.
+
