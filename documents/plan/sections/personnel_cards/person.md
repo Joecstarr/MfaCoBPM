@@ -35,4 +35,3 @@ complete?
 ```{note}
 This subsubsubsection should describe what the person can't be scheduled for.
 ```
-

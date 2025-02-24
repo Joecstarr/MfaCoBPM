@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (RSD)=
-
 ## Requirement Scope Description
+<!-- prettier-ignore-end -->
 
 A requirement contains a discrete goal or feature for a project deliverable.
 Those discrete goals and features should be tightly couplable to project tasks.
@@ -21,4 +22,3 @@ Each requirement has the following fields:
 ```{include} ./requirements_table.md
 
 ```
-

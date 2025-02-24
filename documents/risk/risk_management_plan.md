@@ -106,4 +106,3 @@ of the risk card is project specific and should be described here.
 -   @internationaleelektrotechnischekommissionRiskManagementRisk2019
 -   @williamsPuttingRiskManagement1997
 -   @collawrencenixonRISKMANAGEMENTRM
-

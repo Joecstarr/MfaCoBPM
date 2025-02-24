@@ -90,4 +90,3 @@ However the path $E\to D\to B\to A$ has a day and a half extra effort for
 both delivery dates past due. From this example we can see that each of the
 tasks $E,\,D,\,B,\,A$ are the critical path for the project.
 ```
-

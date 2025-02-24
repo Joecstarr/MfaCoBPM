@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (RSD)=
-
 ## Requirement Scope Description
+<!-- prettier-ignore-end -->
 
 ```{note}
 This section documents what the "shape" of a requirement is in this project.
@@ -15,4 +16,3 @@ this project? What information must be included in all requirements?
 ```{include} ./requirements_table.md
 
 ```
-

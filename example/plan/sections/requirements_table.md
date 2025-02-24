@@ -32,4 +32,3 @@
 ```{include} ./requirement_cards/6.md
 
 ```
-

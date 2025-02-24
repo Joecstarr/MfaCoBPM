@@ -99,3 +99,4 @@ This stage encompasses the individual learning activities and instructional
 strategies that will be employed. This includes lectures, discussions,
 problem-solving sessions, etc.
 ```
+

@@ -147,4 +147,3 @@ the course schedule:
 ```{include} weekly_plans/5.md
 
 ```
-

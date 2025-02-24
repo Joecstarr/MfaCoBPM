@@ -38,4 +38,3 @@ language, for example consider using "shall" over "should".
 This subsubsection should describe what if any deviations are being made to
 this requirement.
 ```
-
