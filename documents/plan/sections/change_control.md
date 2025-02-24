@@ -27,4 +27,3 @@ single task? How will you identify the critical path? How will you ensure the
 schedule stays on track? How will you identify when the schedule is off track?
 How will you adjust the schedule when it gets off track?
 ```
-

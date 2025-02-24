@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (Essoh-Reegem)=
-
 ##### Name: Essoh Reegem
+<!-- prettier-ignore-end -->
 
 ###### Role: Process/Industrial Engineer
 

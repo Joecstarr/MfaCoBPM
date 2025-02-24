@@ -43,4 +43,3 @@ accomplish.
 This subsection contains a description for how the work product should look to
 consider the task "complete"
 ```
-

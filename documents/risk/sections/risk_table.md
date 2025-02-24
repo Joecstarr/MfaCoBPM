@@ -17,4 +17,3 @@ it's useful to sort by severity.
 |    3    |        eget convallis nunc        |     5      |   2    | Extreme  |
 |    4    |    Lorem ipsum dolor sit amet     |     3      |   4    |   High   |
 |    5    |    Pellentesque habitant morbi    |     1      |   3    |  Medium  |
-

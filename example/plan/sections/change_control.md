@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (SCCP)=
-
 ## Scope Change Control Plan
+<!-- prettier-ignore-end -->
 
 Scope changes are acceptable at the following four points in the project life
 cycle:
@@ -32,4 +33,3 @@ requirements will be communicated to and agreed on with an on demand process.
 The project will be scheduled as a collection of tasks. Tasks will be stored as
 individual task cards. The project manager will monitor the health of the
 project by monitory the project kanban board and its associated Gantt chart.
-

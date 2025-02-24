@@ -63,17 +63,19 @@ This section describes limitations imposed on the project. These constraints
 will inform the ```risk_management_plan``` as well as the ```schedule```.
 ````
 
+<!-- prettier-ignore-start -->
 (personnel)=
-
 ### Personnel
+<!-- prettier-ignore-end -->
 
 ```{include} ./personnel_table.md
 
 ```
 
+<!-- prettier-ignore-start -->
 (timing)=
-
 ### Timing
+<!-- prettier-ignore-end -->
 
 ```{note}
 This subsection describes the timing constraints for the project. What is the
@@ -97,4 +99,3 @@ model.
 This subsection describes the monetary constraints for the project. How much do
 we have to spend? Do the funds come in phases or as a lump sum?
 ```
-

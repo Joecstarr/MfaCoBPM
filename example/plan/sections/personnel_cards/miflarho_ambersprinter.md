@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (Miflarho-Ambersprinter)=
-
 ##### Name: Miflarho Ambersprinter
+<!-- prettier-ignore-end -->
 
 ###### Role: Project Manager
 

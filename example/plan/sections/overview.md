@@ -91,18 +91,18 @@ run. The tools and materials expected for use by volunteers include:
 
 ## Project Constraints
 
+<!-- prettier-ignore-start -->
 (personnel)=
-
 ### Personnel
-
+<!-- prettier-ignore-end -->
 ```{include} ./personnel_table.md
 
 ```
 
+<!-- prettier-ignore-start -->
 (timing)=
-
 ### Timing
-
+<!-- prettier-ignore-end -->
 The project has the following timing:
 
 | Milestone                            | Delivery Date |

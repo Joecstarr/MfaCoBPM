@@ -1,6 +1,7 @@
+<!-- prettier-ignore-start -->
 (Gardath-Rivergust)=
-
 ##### Name: Gardath Rivergust
+<!-- prettier-ignore-end -->
 
 ###### Role: Design Engineer
 
