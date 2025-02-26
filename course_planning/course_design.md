@@ -128,21 +128,31 @@ the course schedule:
 6. Week 7-15
 7. Final Exam Retrospective meeting
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/1.md
 
 ```
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/2.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/3.md
 
 ```
 
++++ { "page-break": true }
+
 ```{include} weekly_plans/4.md
 
 ```
+
++++ { "page-break": true }
 
 ```{include} weekly_plans/5.md
 
