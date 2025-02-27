@@ -1,0 +1,25 @@
+name: ❓ Question
+description: Template for asking questions
+title: "[❓]"
+body:
+    - type: checkboxes
+      id: check-search
+      attributes:
+          label: Is there an existing issue for this?
+          description: >-
+              Please search to see if an issue already exists for the issue you
+              encountered.
+          options:
+              - label: I have searched the existing issues
+                required: true
+
+    - type: textarea
+      id: whats-your-question
+      attributes:
+          label: What is the your question?
+          description: Your question
+          placeholder: >-
+              Example: On page x of pdf y you say 'thing' what do you mean
+              by that?
+      validations:
+          required: true
