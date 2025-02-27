@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Course Materials for a Course on Basic Project Management
+message: 'If you use this course design, please cite it as below.'
+type: software
+authors:
+  - family-names: Starr
+    given-names: Joseph
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14933991
+repository-code: 'https://github.com/Joecstarr/MfaCoBPM'
+abstract: >-
+    Project management is an important part of being a successful in academia as
+    well as industry. To take a project from ideation to a publishable product can
+    be easy when everything goes right. However, while completing a project issues
+    often arise that impact the ability to meet project goals. This course will
+    introduce project management concepts that will enable practitioners to mitigate
+    these hidden impacts.
+license: CC-BY-NC-SA-4.0
+date-released: '2025-02-11'
