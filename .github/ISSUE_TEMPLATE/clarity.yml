@@ -1,0 +1,37 @@
+name: 🤷 Clarity
+description: Template for clarity reports
+title: '[🤷]'
+body:
+  - type: checkboxes
+    id: check-search
+    attributes:
+      label: Is there an existing issue for this?
+      description: >-
+        Please search to see if an issue already exists for the issue you
+        encountered.
+      options:
+        - label: I have searched the existing issues
+          required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Where are the errors?
+      description: The location where the error can be found
+      placeholder: 'Example: Page x of pdf y or path to a file in the repository.'
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What's is the error?
+      description: A description of the error
+      placeholder: 'Example: I think where you say x you mean y. '
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 'Proposed solution:'
+      description: A description of how to resolve the error
+      placeholder: 'Example: Reword x like z so that it better reflects y.'
+

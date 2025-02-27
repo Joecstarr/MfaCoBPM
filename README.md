@@ -15,6 +15,7 @@ to open an issue. I've included templates for the following issues:
 - 🐞 Spelling and Grammar
 - 🤷 Clarity
 - ❓ Question
+- 🚀 Enhancement
 
 # What's in This Repository?
 
